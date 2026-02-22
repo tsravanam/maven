@@ -2,6 +2,8 @@
 
 # ============================================================
 # Ubuntu Dev Environment Setup Script
+# Author: Thirupathi Rao Sravanam
+# Date:02/22/2026
 # Installs:
 #   - Basic utilities (tree, zip, wget)
 #   - OpenJDK 21 (LTS)
@@ -54,7 +56,6 @@ fi
 source ~/.bashrc
 
 echo "Java installation completed."
-java -version
 
 
 echo "============================================================"
